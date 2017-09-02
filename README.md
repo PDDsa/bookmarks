@@ -1,0 +1,2 @@
+Bookmarks
+一个基于django的图片分享简单社交网站

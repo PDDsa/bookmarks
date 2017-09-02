@@ -38,6 +38,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'images',
+    'sorl.thumbnail'
 ]
 
 MIDDLEWARE = [
@@ -137,4 +139,7 @@ AUTHENTICATION_BACKENDS = [
     'django.contrib.auth.backends.ModelBackend',
     'account.authentication.EmailBackend',
 ]
+
+# sorl.thumbnail
+THUMBNAIL_DEBUG = True
 
