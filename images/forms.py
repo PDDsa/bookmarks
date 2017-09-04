@@ -4,6 +4,7 @@ from django.core.files.base import ContentFile
 from uuslug import slugify
 from urllib import request
 
+
 class ImageCreateForm(forms.ModelForm):
     class Meta:
         model = Image

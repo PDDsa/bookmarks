@@ -2,10 +2,11 @@
 {% block title %}Images bookmarked{% endblock %}
 {% block content %}
     <h1>Images bookmarked</h1>
-    <div class="image-list">
+    <div id="image-list">
         {% include 'images/image/list_ajax.html' %}
     </div>
 {% endblock %}
+
 {% block domready %}
     var page = 1;
     var empty_page = false;

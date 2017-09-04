@@ -67,7 +67,7 @@ def image_like(request):
 @login_required
 def image_list(request):
     images = Image.objects.all()
-    paginator = Paginator(images, 8)  # 八张图片分一页
+    paginator = Paginator(images, 8)
     page = request.GET.get('page')
     try:
         images = paginator.page(page)
@@ -79,7 +79,7 @@ def image_list(request):
         images = paginator.page(paginator.num_pages)
     if request.is_ajax():
         return render(request, 'images/image/list_ajax.html',
-                      {"section": 'images', "images": images})
+                      {"section": 'images', "images": images})  # 返回一段html
     return render(request, 'images/image/list.html',
                   {'section': 'images', 'images': images})
 

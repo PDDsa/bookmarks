@@ -20,7 +20,12 @@ urlpatterns = [
         password_reset_confirm, name='password_reset_confirm'),
     url(r'^password-reset/complete/$', password_reset_complete, name='password_reset_complete'),
     url(r'^dashboard/$', views.dashboard, name='dashboard'),
+    # 用户注册以及编辑
     url(r'^register/$', views.register, name='register'),
     url(r'^edit/$', views.edit, name='edit'),
+    # 用户列表以及详情
+    url(r'^users/$', views.user_list, name='user_list'),
+    url(r"^users/follow/$", views.user_follow, name="user_follow"),
+    url(r'^users/(?P<username>[-\w]+)/$', views.user_detail, name='user_detail'),
 
 ]

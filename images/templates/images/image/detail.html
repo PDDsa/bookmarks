@@ -39,9 +39,6 @@
     </div>
 {% endblock %}
 {% block domready %}
-
-    html = "<div><img src='{{ user.profile.photo.url }}'><p>{{ user.first_name }}</p></div>";
-
     $('a.like').click(function(e){
         e.preventDefault();
         $.post('{% url "images:like" %}',
@@ -68,8 +65,10 @@
                             divs += div
                             }$('.image-likes').html(divs)
 
-{#                $('.image-likes').html(parseInt($('span.count .total').text()) == 0 ? '<p class="error"> No body likes this images yet.</p>':html)#}
-                $('span.count').html(previous_likes == 1? '<span class="total">1</span> like' : '<span class="total">'+previous_likes+'</span> likes')
+                $('.image-likes').html(parseInt($('span.count .total').text()) == 0 ?
+                '<p class="error"> No body likes this images yet.</p>':html)
+                $('span.count').html(previous_likes == 1? '<span class="total">1</span> like' :
+                '<span class="total">'+previous_likes+'</span> likes')
 
 
 
