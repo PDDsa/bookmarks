@@ -146,3 +146,8 @@ THUMBNAIL_DEBUG = True
 
 ABSOLUTE_URL_OVERRIDES = {'auth.user': lambda u: reverse_lazy('user_detail', args=[u.username])}
 
+
+# 集成Redis 到我们的项目
+REDIS_HOST = 'localhost'
+REDIS_PORT = 6379
+REDIS_DB = 0
