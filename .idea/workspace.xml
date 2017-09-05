@@ -2,17 +2,45 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5bfdc8c-09dd-43bf-a3d9-66fa85f3d14b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/signals.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/templates/images/image/ranking.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db.sqlite3" afterPath="$PROJECT_DIR$/db.sqlite3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/cache/01/ae/01ae0cf37881462aa72a3c47bd12ffc5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/cache/0c/55/0c55caee27882f637f4349f13cf46c39.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/cache/24/d0/24d020730d9e620b8ffa39a53981387d.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/cache/2b/58/2b5886cdc0cb84911bc38d700c5177ea.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/cache/39/f4/39f4b27747d2929f0030fbfdaf73a589.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/cache/54/b7/54b7baf5e839e4bebb9fe20bba669f91.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/cache/60/ce/60ceabee1039cc5425026f3e204dd1e1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/cache/7f/ca/7fca85d203a4f7eaa9ce4ea096320df8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/cache/9c/4e/9c4e95dbda704fbe921cd6ce847f0cac.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/cache/b5/40/b5408721ba0cb0f2c8d09fea761f0c3a.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/cache/c6/4f/c64f7eacae87be60623083f576305317.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/cache/cd/0c/cd0cdc3fc248be35b701212e70918c24.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/cache/d2/ef/d2efabfd7bf8ef86aae93c49d2c7f16a.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/cache/f6/f0/f6f067b97d6240538dfaaa1ed09a78e0.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/images/2017/09/03/mao-tu-pian-bai-du-sou-suo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/images/2017/09/03/mao-tu-pian-bai-du-sou-suo_9rpDOn0" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/images/2017/09/03/su-ge-lan-zhe-er-mao-bai-du-sou-suo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/images/2017/09/03/tu-bai-du-sou-suo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/images/2017/09/03/ying-guo-duan-mao-mao-bai-du-sou-suo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/images/2017/09/03/ying-guo-duan-mao-mao-bai-du-sou-suo_TW6pWUb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/images/2017/09/03/ying-guo-duan-mao-mao-bai-du-sou-suo_To2QkOk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/images/2017/09/03/ying-guo-duan-mao-mao-bai-du-sou-suo_yWHpTTS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/users/2017/09/03/111.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/account/migrations/0002_contact.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/actions/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/actions/admin.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/actions/apps.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/actions/migrations/0001_initial.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/actions/migrations/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/actions/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/actions/tests.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/actions/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/migrations/0003_image_total_likes.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/migrations/0004_remove_image_total_likes.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/migrations/0005_image_total_likes.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/migrations/0006_remove_image_total_likes.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/migrations/0007_image_total_likes.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/requirements.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bookmarks/settings.py" afterPath="$PROJECT_DIR$/bookmarks/settings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/__init__.py" afterPath="$PROJECT_DIR$/images/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/apps.py" afterPath="$PROJECT_DIR$/images/apps.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/models.py" afterPath="$PROJECT_DIR$/images/models.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/templates/images/image/detail.html" afterPath="$PROJECT_DIR$/images/templates/images/image/detail.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/urls.py" afterPath="$PROJECT_DIR$/images/urls.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/views.py" afterPath="$PROJECT_DIR$/images/views.py" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -86,8 +114,8 @@
       <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bookmarks/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1740">
-              <caret line="117" column="13" lean-forward="true" selection-start-line="117" selection-start-column="13" selection-end-line="117" selection-end-column="13" />
+            <state relative-caret-position="349">
+              <caret line="153" column="0" lean-forward="false" selection-start-line="153" selection-start-column="0" selection-end-line="153" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -109,7 +137,7 @@
         <entry file="file://$PROJECT_DIR$/requirements.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -437,7 +465,14 @@
       <option name="project" value="LOCAL" />
       <updated>1504537781794</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="使用redis">
+      <created>1504595000287</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1504595000287</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -467,11 +502,11 @@
     <frame x="434" y="23" width="1138" height="822" extended-state="0" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.49270073" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32737276" sideWeight="0.5109489" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32737276" sideWeight="0.51459855" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2894376" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32737276" sideWeight="0.4890511" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32737276" sideWeight="0.48540145" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2874828" sideWeight="0.47445256" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32737276" sideWeight="0.47445256" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32737276" sideWeight="0.47080293" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18248175" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -549,7 +584,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="增加粉丝系统" />
     <MESSAGE value="增加活动流应用 首页显示用户近期动作" />
-    <option name="LAST_COMMIT_MESSAGE" value="增加活动流应用 首页显示用户近期动作" />
+    <MESSAGE value="使用redis" />
+    <option name="LAST_COMMIT_MESSAGE" value="使用redis" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -893,15 +929,15 @@
     <entry file="file://$PROJECT_DIR$/requirements.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bookmarks/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1740">
-          <caret line="117" column="13" lean-forward="true" selection-start-line="117" selection-start-column="13" selection-end-line="117" selection-end-column="13" />
+        <state relative-caret-position="349">
+          <caret line="153" column="0" lean-forward="false" selection-start-line="153" selection-start-column="0" selection-end-line="153" selection-end-column="0" />
           <folding />
         </state>
       </provider>
